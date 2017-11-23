@@ -1,4 +1,4 @@
-package com.bapcraft.bannedbuilds.player;
+package com.bapcraft.bannedbuilds.tracking;
 
 import org.bukkit.Location;
 
