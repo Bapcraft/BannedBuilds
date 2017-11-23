@@ -8,7 +8,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * @author Kyle Posluns
  */
 public class BannedBuilds extends JavaPlugin {
-
+    
     private static BannedBuilds instance;
 
     @Override
